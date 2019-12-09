@@ -7,3 +7,8 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+* Robin
+* Starfire
+* Chico bestia
+* Raven
+* Cyborg
