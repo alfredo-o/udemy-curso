@@ -6,3 +6,4 @@
 4. Super fuerza
 5. Visión nocturna
 6. Detener el tiempo
+7. Congelar el agua
